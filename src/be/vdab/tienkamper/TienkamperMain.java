@@ -5,7 +5,7 @@ import java.util.TreeSet;
 
 public class TienkamperMain {
     public static void main(String[] args) {
-        // ArrayList met Tienkampers
+
         ArrayList<Tienkamper> atleten = new ArrayList<>();
         atleten.add(new Tienkamper("Sven", 8000));
         atleten.add(new Tienkamper("Lisa", 7500));
